@@ -1,3 +1,8 @@
+/*
+Created by Maria Vargas Caraballo 
+
+*/
+
 import java.util.Scanner; // Needed for Scanner class
 import java.util.Random;
 
